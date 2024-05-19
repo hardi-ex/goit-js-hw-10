@@ -1,1 +1,1 @@
-# Vanilla App Template
+# Timer and Snackbar
